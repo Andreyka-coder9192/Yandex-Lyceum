@@ -144,7 +144,7 @@ func tokenize(expression string) []string {
 }
 
 func main() {
-	result, err := Calc("1/2*4+8")
+	result, err := Calc("((7+1) / (2+2) * 4) / 8 * (32 - ((4+12)*2)) -1")
 	if err != nil {
 		fmt.Println("Error:", err)
 	} else {

@@ -1,1 +1,1 @@
-# sprint-0_Yandex-Lyceum
+# Yandex-Lyceum_course
